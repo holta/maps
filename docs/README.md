@@ -1,12 +1,22 @@
 ## Offline OpenStreetMap + Regional Vector Map Datasets
 
-### How do I add detailed Zoomable Maps for my region?
+### How do I add Zoomable Maps for my region?
 
-. Use Administrative Console, under the 'Install Content' heading, to display the checkboxes for selection of the MAP region for download. In a manner similar to installing Kiwix, or Rachel content modules, the "Install Selected Region" button starts a download process, which will complete in more or less time, based  upon the size of the region, and the speed of your internet connection. The progress of this operation can be monitored by clicking "utilities" in the header, an "Display Job Status" in the left column.
+Make sure you have [Internet-in-a-Box](http://internet-in-a-box.org) (IIAB) [7.0](https://github.com/iiab/iiab/wiki/IIAB-7.0-Release-Notes) (or higher) installed.
 
-### Cross Reference
+Use its Admin Console (http://box.lan/admin, default passwords at http://FAQ.IIAB.IO) to click Install Content (on top) > Get Map Region (on the left).
 
-See ["How do I add zoomable maps for my region?"](http://FAQ.IIAB.IO#How_do_I_add_zoomable_maps_for_my_region.3F) in [FAQ.IIAB.IO](http://FAQ.IIAB.IO)
+Pick a checkbox on the left to download, unpack and install the Map Region (Map Pack) you want.  As you mouse over the choices on the left, colorful bounding boxes light up on the world map on the right, to help you choose the Map Pack most suitable for your region.
+
+As of June 2019 you can choose among the major continents, Central America (3.77 GB), the Middle East (7.66 GB) or the World (53.17 GB).  A working example/sample of the latest maps in action can generally be previewed at: http://iiab.me/maps
+
+After making your choice, kick off your Map Pack download/installation using the 'Install Selected Region' button.
+
+Please be patient as this can sometimes take a few hours, depending on your Internet connection etc!  You can monitor the progress by clicking Utilities (on top) > Display Job Status (on the left).
+
+Once this is complete, try it out at http://box/maps &mdash; and also look over your new IIAB home page (typically http://box, or http://172.18.96.1, or http://box.local) where a new Content Pack should appear, briefly describing the Map Pack you installed &mdash; for students and teachers to click on!
+
+SEE ALSO: ["How do I add zoomable maps for my region?"](http://FAQ.IIAB.IO#How_do_I_add_zoomable_maps_for_my_region.3F) in [FAQ.IIAB.IO](http://FAQ.IIAB.IO)
 
 ### History And Architecture
 
